@@ -1,0 +1,8 @@
+# robots.txt — Shabban Charity Organisation
+# https://shabbancharityorganisation.netlify.app
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://shabbancharityorganisation.netlify.app/sitemap.xml
